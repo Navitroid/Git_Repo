@@ -1,11 +1,16 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[26]:
+
+
+# импортируем необходимые библиотеки и считываем файл с данными
+
+
 # In[1]:
 
 
 import pandas as pd
-import scipy.stats as ss
 import seaborn as sns
 import matplotlib as plt
 import numpy as np
